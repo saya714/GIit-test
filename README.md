@@ -1,2 +1,2 @@
 # GIit-test
-Git使用联系
+Git使用练习
